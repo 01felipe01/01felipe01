@@ -16,10 +16,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=01felipe01&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01felipe01&layout=compact" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01felipe01" />
+
 
 
 <div>
