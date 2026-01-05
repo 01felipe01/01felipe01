@@ -18,6 +18,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01felipe01" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01felipe01" />
 
 
 <div>
