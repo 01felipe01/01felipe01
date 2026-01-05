@@ -17,8 +17,9 @@
 
 <div>
   <a href = "" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
-
-  ![Snake animation](https://github.com/01felipe01/01felipe01/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
+<img src="https://raw.githubusercontent.com/Larissakich/Larissakich/output/snake.svg" alt="Snake animation" />
+
+###
