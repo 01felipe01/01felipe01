@@ -20,6 +20,6 @@
   
 </div>
 
-<img src="https://raw.githubusercontent.com/Larissakich/Larissakich/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/01felipe01/01felipe01/output/snake.svg" alt="Snake animation" />
 
 ###
