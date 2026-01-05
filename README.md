@@ -16,10 +16,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01felipe01" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01felipe01" />
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=01felipe01&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01felipe01&theme=github_dark" />
+</div>
 
 <div>
   <a href = "" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
