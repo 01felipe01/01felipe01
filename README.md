@@ -28,7 +28,14 @@
 
 ## 🔗 Contato
 <div>
-  <a href = "www.linkedin.com/in/felipe-padilha-fogaça-de-almeida-03243a392" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg">
+  <a href="www.linkedin.com/in/felipe-padilha-fogaça-de-almeida-03243a392" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"
+      alt="LinkedIn"
+      title="LinkedIn"
+      width="80"
+    />
+  </a>
 </div>
 
 ---
