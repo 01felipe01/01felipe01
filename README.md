@@ -1,6 +1,6 @@
 # Olá! Sou o Felipe
 
-🎓 Cursando Engenharia de Software (5º semestre)  
+🎓 Cursando Engenharia de Software (6º semestre)  
 💻 Em transição para a área de Tecnologia da Informação  
 ☕ Atualmente com foco em desenvolvimento backend, utilizando Java
 
